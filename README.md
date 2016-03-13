@@ -10,13 +10,15 @@ Below are the list of web services offered by Panton:
 2. flow (workflow)
 3. notify (notification system)
 
-These web services contains the following identity:
-- micro-service.
-- provide unify interface via REST apis.
+
+### Characteristics
+In general, Panton web services contains the following characteristics:
+- each service is a micro-services.
+- each service provide an unify interface via REST apis.
+- each service will have its own client-sdk.
 
 
-### MCRE
-
+## 1.0 MCRE
 This will be the first web service we'd attempted to put into this project.
 
 
