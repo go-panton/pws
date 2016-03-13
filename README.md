@@ -16,6 +16,7 @@ In general, Panton web services contains the following characteristics:
 - each service is a micro-services.
 - each service provide an unify interface via REST apis.
 - each service will have its own client-sdk.
+- each service will be have its own repository.
 
 
 ## 1.0 MCRE
